@@ -11,7 +11,7 @@ function Compatability() {
         <li>Bluetooth: Bluetooth 5.0 for connecting to compatible devices</li>
         <li>
           Smart Home Integration: Compatibility with major smart home platforms
-          for seamless automation and control
+          for seamless automation and control.
         </li>
       </ul>
     </div>
